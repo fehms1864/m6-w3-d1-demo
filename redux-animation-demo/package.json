@@ -1,0 +1,52 @@
+{
+  "name": "redux-animation-demo",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "@vx/gradient": "0.0.192",
+    "@vx/group": "0.0.190",
+    "@vx/hierarchy": "0.0.179",
+    "@vx/shape": "0.0.179",
+    "classnames": "2.2.6",
+    "d3-hierarchy": "1.1.9",
+    "prop-types": "15.7.2",
+    "@react-vertex/core": "3.0.0",
+    "@react-vertex/dom-hooks": "1.11.0",
+    "@react-vertex/geometry-hooks": "3.0.0",
+    "@react-vertex/material-hooks": "3.0.0",
+    "@react-vertex/math-hooks": "2.0.0",
+    "@react-vertex/orbit-camera": "3.0.0",
+    "d3-timer": "1.0.9",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2",
+    "react-router-dom": "^5.2.0",
+    "reactstrap": "^9.0.3",
+    "react-move": "2.8.0",
+    "react-scripts": "1.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
